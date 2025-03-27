@@ -1,8 +1,15 @@
-let x = 5;
+//------------output-------------------//
 
-if(true){
-    let x = 3;
-    console.log(x);
-}
+console.log('hello');
 
-console.log(x);
+
+
+
+// let x = 5;
+
+// if(true){
+//     let x = 3;
+//     console.log(x);
+// }
+
+// console.log(x);
